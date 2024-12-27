@@ -1,0 +1,35 @@
+{
+  "accounts": [
+    {
+      "id": "JrIzqHh0l",
+      "title": "买蛋糕",
+      "time": "2024-11-13",
+      "type": "-1",
+      "account": "100",
+      "remarks": "生日"
+    },
+    {
+      "id": "8RWxwvTXy",
+      "title": "抽烟",
+      "time": "2024-11-13",
+      "type": "1",
+      "account": "12",
+      "remarks": "喜欢"
+    },
+    {
+      "title": "买QQ玩具",
+      "time": "2024-11-14",
+      "type": "-1",
+      "account": "321",
+      "remarks": "喜欢"
+    },
+    {
+      "id": "sIKnc-aDd",
+      "title": "买QQ玩具4",
+      "time": "2024-11-14",
+      "type": "-1",
+      "account": "321",
+      "remarks": "喜欢"
+    }
+  ]
+}
